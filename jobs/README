@@ -1,2 +1,3 @@
-This Python script is designed to scrape job listings from the [TimesJob website](https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&searchTextSrc=&searchTextText=&txtKeywords=python&txtLocation=) and filter them based on a user-specified "unfamiliar skill." 
-The program automates the process of finding and saving relevant job information into text files for further review. 
+# Job Scraping Script
+
+This Python script is designed to scrape job listings from the [TimesJobs website](https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&searchTextSrc=&searchTextText=&txtKeywords=python&txtLocation=) and filter them based on a user-specified "unfamiliar skill." The program automates the process of finding and saving relevant job information into text files for further review.
